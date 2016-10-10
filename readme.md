@@ -9,7 +9,7 @@ Test Driven Development leads to better code. TDD is extremely helpful when impl
 ### What are the objectives?
 *After this workshop, developers will be able to:*
 
-- Write unit tests using RSpec using `expectations` and `matchers`
+- Write unit tests with RSpec using `expectations` and `matchers`
 - Compare and contrast common RSpec terms including `describe`, `it`, and `context`
 - Refactor tests with `before`, `subject`, and `let`
 
